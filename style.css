@@ -1,23 +1,19 @@
-body {
-    min-height: 8000px;
-}
-
 section {
-    padding-top: 60px;
+  padding-top: 60px;
 }
 
 nav {
-    backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
 }
 .navbar-brand {
-    letter-spacing: 3px;
+  letter-spacing: 3px;
 }
 .nav-link:hover {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .note {
-    padding: 20px;
-    border-radius: 10px;
-    color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  color: #fff;
 }
